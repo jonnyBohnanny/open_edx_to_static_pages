@@ -1,4 +1,5 @@
 import os.path
+import sys 
 
 from ocx_to_html import CourseConverter
 
