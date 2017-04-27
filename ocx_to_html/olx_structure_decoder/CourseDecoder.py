@@ -14,6 +14,7 @@ class CourseDecoder:
         chapters = []
 
         for child in root:
-            chapters.append(child.attrib['url_name'])
+            if 'url_name' in  child.attrib:
+                chapters.append(child.attrib['url_name'])
 
         return chapters

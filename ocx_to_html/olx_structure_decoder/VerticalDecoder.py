@@ -44,7 +44,7 @@ class VerticalDecoder:
                 self.catHtml(child.attrib['url_name'])
             elif child.tag.lower() == 'problem':
                 self.catProblem(child.attrib['url_name'])
-                print("*** will not render yet: ", child.tag, child.attrib, )
+                #print("*** will not render yet: ", child.tag, child.attrib, )
                 print(child.tag, child.attrib)
 
             elif child.tag.lower() == 'video':
