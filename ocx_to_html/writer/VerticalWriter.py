@@ -1,3 +1,5 @@
+from ocx_to_html.util import Utf8UrlRepair
+
 class VerticalWriter:
     @staticmethod
     def write(html_blob, navigation):
@@ -49,4 +51,6 @@ class VerticalWriter:
 </html>'''
 
         page = page.replace("/static", "../static")
+        # TODO: this does nothing at the moment UTF-8 in src or href attributes may not work
+        page = Utf8UrlRepair.Utf8UrlRepair.repair(page)
         return page

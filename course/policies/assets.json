@@ -1,0 +1,547 @@
+{
+    "103.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "103.jpg", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "103.jpg", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@103.jpg", 
+        "import_path": "103.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "103.jpg", 
+            null
+        ]
+    }, 
+    "Pok\u00e9mon_TCG_logo.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "Pok\u00e9mon_TCG_logo.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Pok\u00e9mon_TCG_logo.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@Pok\u00e9mon_TCG_logo.png", 
+        "import_path": "Pok\u00e9mon_TCG_logo.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "Pok\u00e9mon_TCG_logo-png.jpg", 
+            null
+        ]
+    }, 
+    "Rarity_Common.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "Rarity_Common.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Rarity_Common.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@Rarity_Common.png", 
+        "import_path": "Rarity_Common.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "Rarity_Common-png.jpg", 
+            null
+        ]
+    }, 
+    "Rarity_Rare.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "Rarity_Rare.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Rarity_Rare.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@Rarity_Rare.png", 
+        "import_path": "Rarity_Rare.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "Rarity_Rare-png.jpg", 
+            null
+        ]
+    }, 
+    "Rarity_Uncommon.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "Rarity_Uncommon.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Rarity_Uncommon.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@Rarity_Uncommon.png", 
+        "import_path": "Rarity_Uncommon.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "Rarity_Uncommon-png.jpg", 
+            null
+        ]
+    }, 
+    "XY3_EN_104.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "XY3_EN_104.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "XY3_EN_104.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@XY3_EN_104.png", 
+        "import_path": "XY3_EN_104.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "XY3_EN_104-png.jpg", 
+            null
+        ]
+    }, 
+    "all_energy.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "all_energy.jpg", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "all_energy.jpg", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@all_energy.jpg", 
+        "import_path": "all_energy.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "all_energy.jpg", 
+            null
+        ]
+    }, 
+    "audino.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "audino.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "audino.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@audino.png", 
+        "import_path": "audino.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "audino-png.jpg", 
+            null
+        ]
+    }, 
+    "bulbasaur.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "bulbasaur.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "bulbasaur.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@bulbasaur.png", 
+        "import_path": "bulbasaur.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "bulbasaur-png.jpg", 
+            null
+        ]
+    }, 
+    "bulbasaur_line_art_by_reallyfeelingit-d9i9okz.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "bulbasaur_line_art_by_reallyfeelingit-d9i9okz.jpg", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "bulbasaur_line_art_by_reallyfeelingit-d9i9okz.jpg", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@bulbasaur_line_art_by_reallyfeelingit-d9i9okz.jpg", 
+        "import_path": "bulbasaur_line_art_by_reallyfeelingit-d9i9okz.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "bulbasaur_line_art_by_reallyfeelingit-d9i9okz.jpg", 
+            null
+        ]
+    }, 
+    "charmander.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "charmander.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "charmander.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@charmander.png", 
+        "import_path": "charmander.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "charmander-png.jpg", 
+            null
+        ]
+    }, 
+    "double_colorless_energy_next_destinies.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "double_colorless_energy_next_destinies.jpg", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "double_colorless_energy_next_destinies.jpg", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@double_colorless_energy_next_destinies.jpg", 
+        "import_path": "double_colorless_energy_next_destinies.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "double_colorless_energy_next_destinies.jpg", 
+            null
+        ]
+    }, 
+    "how_to_open_a_pack_of_pokemon_cards.mp4": {
+        "contentType": "video/mp4", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "how_to_open_a_pack_of_pokemon_cards.mp4", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "how_to_open_a_pack_of_pokemon_cards.mp4", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@how_to_open_a_pack_of_pokemon_cards.mp4", 
+        "import_path": "how_to_open_a_pack_of_pokemon_cards.mp4", 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "images_course_image.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "images_course_image.jpg", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "images_course_image.jpg", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@images_course_image.jpg", 
+        "import_path": "images/course_image.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "images_course_image.jpg", 
+            null
+        ]
+    }, 
+    "juniper.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "juniper.jpg", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "juniper.jpg", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@juniper.jpg", 
+        "import_path": "juniper.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "juniper.jpg", 
+            null
+        ]
+    }, 
+    "juniper.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "juniper.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "juniper.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@juniper.png", 
+        "import_path": "juniper.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "juniper-png.jpg", 
+            null
+        ]
+    }, 
+    "lady.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "lady.jpg", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "lady.jpg", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@lady.jpg", 
+        "import_path": "lady.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "lady.jpg", 
+            null
+        ]
+    }, 
+    "oak.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "oak.jpg", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "oak.jpg", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@oak.jpg", 
+        "import_path": "oak.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "oak.jpg", 
+            null
+        ]
+    }, 
+    "pikachu.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "pikachu.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "pikachu.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@pikachu.png", 
+        "import_path": "pikachu.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "pikachu-png.jpg", 
+            null
+        ]
+    }, 
+    "pokemoncard.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "pokemoncard.jpg", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "pokemoncard.jpg", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@pokemoncard.jpg", 
+        "import_path": "pokemoncard.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "pokemoncard.jpg", 
+            null
+        ]
+    }, 
+    "primarina_gx.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "primarina_gx.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "primarina_gx.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@primarina_gx.png", 
+        "import_path": "primarina_gx.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "primarina_gx-png.jpg", 
+            null
+        ]
+    }, 
+    "sp_35.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "sp_35.jpg", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "sp_35.jpg", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@sp_35.jpg", 
+        "import_path": "sp_35.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "sp_35.jpg", 
+            null
+        ]
+    }, 
+    "squirtle.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "PTCG001", 
+            "name": "squirtle.png", 
+            "org": "CrypticX", 
+            "revision": null, 
+            "run": "2017_T1", 
+            "tag": "c4x"
+        }, 
+        "displayname": "squirtle.png", 
+        "filename": "asset-v1:CrypticX+PTCG001+2017_T1+type@asset+block@squirtle.png", 
+        "import_path": "squirtle.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "CrypticX", 
+            "PTCG001", 
+            "thumbnail", 
+            "squirtle-png.jpg", 
+            null
+        ]
+    }
+}

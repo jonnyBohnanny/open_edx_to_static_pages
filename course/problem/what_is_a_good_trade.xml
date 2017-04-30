@@ -1,0 +1,35 @@
+<problem display_name="Is this ever seen?">
+  <stringresponse answer="GX" type="ci regexp">
+    <additional_answer answer="Pokémon GX"/>
+    <additional_answer answer="Pokemon GX"/>
+    <label>
+        What kinds of Pokémon are conidered the most powerful in Pokémon Sun &amp; Moon? These are Pokémon that have moves that can only be used once per game.
+    </label>
+    <description>
+        Generally, the strongest Pokémon in the Sun &amp; Moon set are
+    </description>
+    <textline size="20" trailing_text="Pokémon"/>
+    <correcthint label="Great job!">
+        Pokémon GX are considered the strongest. Some of the non-GX pokemon are strong as well and have interesting abilities.
+    </correcthint>
+    <stringequalhint answer="EX" label="Almost.">
+        EX Pokémon were considered strong in sets before Sun &amp; Moon.
+    </stringequalhint>
+    <stringequalhint answer="Mega Evolution" label="Not what we had in mind.">
+        Mega Evolution Pokémon were considered strong in sets before Sun &amp; Moon.
+    </stringequalhint>
+    <stringequalhint answer="Mega" label="Not what we had in mind.">
+        Mega Evolution Pokémon were considered strong in sets before Sun &amp; Moon.
+    </stringequalhint>
+    <stringequalhint answer="M" label="Not what we had in mind.">
+        Mega Evolution Pokémon were considered strong in sets before Sun &amp; Moon.
+    </stringequalhint>
+    <stringequalhint answer="Break" label="Not what we had in mind.">
+        Pokémon Break were considered strong in sets before Sun &amp; Moon.
+    </stringequalhint>
+  </stringresponse>
+  <demandhint>
+    <hint>Solgaleo is this kind of Pokémon.</hint>
+    <hint>Lunala is this kind of Pokémon.</hint>
+  </demandhint>
+</problem>

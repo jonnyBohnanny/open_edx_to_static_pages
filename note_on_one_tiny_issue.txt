@@ -1,0 +1,10 @@
+The URLs in the HTML sections used in Open edX appear to treat UTF filenames differently than normal.
+For the URLs in the HTML blocks Open edX will expect the following:
+
+src="../static/Pokémon_TCG_logo.png"
+
+which, is my opinion is not standard. From my view the following shoudl be correct and appears to be what is used for finding the file using a browser:
+
+
+
+This inconsistency means that copying existing HTML into an Open edX HTML block may cause the HTML to not function correctly. 
