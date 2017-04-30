@@ -1,10 +1,14 @@
-The URLs in the HTML sections used in Open edX appear to treat UTF filenames differently than normal.
-For the URLs in the HTML blocks Open edX will expect the following:
+Open edX may or may not do strange things to file names with UTF-8 characters in the file names when the course archive is imported.
 
-src="../static/Pokémon_TCG_logo.png"
+Some manual adjustments may need to be made to href and src attributes where the path or file names contain UTF-8.
+The adjustments woudl depend on the host that has the files and how they are acessed. If they are accessed from the local file system the UTF-8 in the URL might work without an issue.
 
-which, is my opinion is not standard. From my view the following shoudl be correct and appears to be what is used for finding the file using a browser:
+Open edX appears to prefer using the un-encoded UTF-8 strings as urls in the HTML sections. For example Pokémon_TCG_logo.png would be used to define the value of a src attribute, instead of Pok%c3%a9mon_TCG_logo.png. It is my opinion that using the Pok%c3%a9mon_TCG_logo.png woudl be more correct as far as urls go.
 
+For example:
+Pokémon_TCG_logo.png
 
-
-This inconsistency means that copying existing HTML into an Open edX HTML block may cause the HTML to not function correctly. 
+may have been changed to:
+Pok+¬mon_TCG_logo.png
+during the import / export process on the Open edX server.
+  

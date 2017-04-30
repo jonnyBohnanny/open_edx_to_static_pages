@@ -1,6 +1,9 @@
 from urllib import parse
 import re
 
+# this class was created to fix issues with utf-8 in URLs which may or may not be needed.
+# TODO: find out if this class is needed and finish it if it is.
+
 class Utf8UrlRepair:
     @staticmethod
     def repair(html_blob):
