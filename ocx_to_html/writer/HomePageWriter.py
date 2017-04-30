@@ -2,7 +2,7 @@ class HomePageWriter:
     @staticmethod
     def write(html_blob, navigation):
 
-        if navigation.subsection_name != "":
+        if navigation.course_name != "":
             title = navigation.course_name
             html_blob = "<h1>" + title + "</h1>" + html_blob
         else:
